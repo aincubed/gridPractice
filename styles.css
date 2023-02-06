@@ -37,6 +37,12 @@ p {
     text-align: left;
 }
 
+.navigation {
+    position: sticky;
+    top: 0;
+    border-bottom: 0.5px solid #ccc;
+}
+
 .navigation ul {
     display: flex;
     justify-content: space-between;
